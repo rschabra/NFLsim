@@ -23,3 +23,4 @@ def append_arr_as_row(file_name, arr_elem, newline=''):
         csv_writer.writerow(arr_elem)
 
 
+
